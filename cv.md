@@ -1,6 +1,6 @@
 ![photo](photo.png "Мое фото")
 ## Sergey Grebel
-engineer for commissioning and adjustment of microprocessor systems of railway automation
+Engineer for commissioning and adjustment of microprocessor systems of railway automation
 ****
 
 ### Contact
@@ -41,7 +41,7 @@ function countChange(money, coins, flag = NaN) {
 ****
 
 ### Experience
-Learn Web Developer
+Studying web development  
 [cssBayan](https://gserdg.github.io/cssBayan/cssBayan/index.html)
 
 ****
