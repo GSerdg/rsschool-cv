@@ -47,7 +47,7 @@ Studying web development
 ****
 
 ### Education
-Saint Petersburg State Railway Transport Universyty
+Saint Petersburg State Railway Transport Universyty  
 Direction: computer systems in automatics and telemechanics
 
 ### English level
